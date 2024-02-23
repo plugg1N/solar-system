@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(64,54): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(64,43): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  solar-system.vcxproj -> D:\Projects\CPP\solar-system\solar-system\x64\Debug\solar-system.exe
