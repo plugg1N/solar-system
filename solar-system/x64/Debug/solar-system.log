@@ -1,4 +1,78 @@
 ﻿  main.cpp
-D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(64,54): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
-D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(64,43): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,78): warning C4244:         with
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,78): warning C4244:         [
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,78): warning C4244:             T=unsigned int
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,78): warning C4244:         ]
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,78): warning C4244:         and
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,78): warning C4244:         [
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,78): warning C4244:             T=float
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,78): warning C4244:         ]
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,57): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,57): warning C4244:         with
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,57): warning C4244:         [
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,57): warning C4244:             T=unsigned int
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,57): warning C4244:         ]
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,57): warning C4244:         and
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,57): warning C4244:         [
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,57): warning C4244:             T=float
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(30,57): warning C4244:         ]
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(32,51): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(32,51): warning C4244:         with
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(32,51): warning C4244:         [
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(32,51): warning C4244:             T=float
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(32,51): warning C4244:         ]
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(32,41): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(32,41): warning C4244:         with
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(32,41): warning C4244:         [
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(32,41): warning C4244:             T=float
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(32,41): warning C4244:         ]
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(55,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(57,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(57,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(69,87): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(69,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(77,91): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(77,61): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(96,38): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(96,38): warning C4244:         with
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(96,38): warning C4244:         [
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(96,38): warning C4244:             T=float
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(96,38): warning C4244:         ]
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(96,29): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(96,29): warning C4244:         with
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(96,29): warning C4244:         [
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(96,29): warning C4244:             T=float
+D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(96,29): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,103): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,103): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,103): warning C4244:             T=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,103): warning C4244:         ]
+  (компиляция исходного файла "main.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,103):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	D:\Projects\CPP\solar-system\solar-system\solar-system\main.cpp(43,31):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void std::vector<sf::Vector2f,std::allocator<sf::Vector2f>>::emplace_back<double&,double&>(double &,double &)"
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(862,24):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<double&,double&>(double &,double &)"
+          with
+          [
+              _Ty=sf::Vector2f
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(780,20):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<double&,double&>(double &,double &)"
+          with
+          [
+              _Ty=sf::Vector2f
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(798,27):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,double&,double&>(_Alloc &,_Objty *const ,double &,double &)"
+          with
+          [
+              _Alloc=std::allocator<sf::Vector2f>,
+              _Ty=sf::Vector2<float>,
+              _Objty=sf::Vector2<float>
+          ]
+  
   solar-system.vcxproj -> D:\Projects\CPP\solar-system\solar-system\x64\Debug\solar-system.exe
